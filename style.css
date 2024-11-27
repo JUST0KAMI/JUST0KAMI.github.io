@@ -1,9 +1,11 @@
 body {
   background-color: #FFFF99;
+  font-family: verdana;
+  font-size: 20px;
 }
 h1 {
   color: red;
   font-family: serif;
-  font-size: 20px;
-  marge-left: 20px;
+  font-size: 50px;
+  marge-left: center;
 }

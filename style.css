@@ -1,4 +1,9 @@
-th {
-  border: 1px solid black;
-   
+body {
+  background-color: #FFFF99;
+}
+h1 {
+  color: red;
+  font-family: serif;
+  font-size: 20px;
+  marge-left: 20px;
 }

@@ -36,5 +36,5 @@ div.tableau {
   text-align: center;
   border: 2px;
   width: 33%;
-  
+  border-collapse: collapse;
 }

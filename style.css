@@ -21,7 +21,7 @@ h1 {
   color: green;
   font-size: 35px;
 }
-div {
+div.image {
   border: 5px solid red;
   image-size: 15%;
   border-radius: 10px;

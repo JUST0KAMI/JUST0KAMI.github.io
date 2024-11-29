@@ -26,9 +26,9 @@ div.image {
   image-size: 15%;
   border-radius: 10px;
   background-color: blue;
-  width: 100px
   padding: 10px;
-  position: fixed;
+  width: 100px;
+  position: static;
   right: 10px;
   top: 10px;
 }

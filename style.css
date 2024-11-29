@@ -29,6 +29,7 @@ div.image {
   padding: 10px;
   width: 100px;
   position: static;
+  image-align: center;
   right: 10px;
   top: 10px;
 }

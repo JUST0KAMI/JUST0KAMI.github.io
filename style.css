@@ -28,7 +28,11 @@ div.image {
   padding: 10px;
   width: 200px;
   position: static;
-  image-size: 15%;
   right: 10px;
   top: 10px;
+}
+div.tableau {
+  color: red;
+  text-align: center;
+
 }

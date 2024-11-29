@@ -34,5 +34,7 @@ div.image {
 div.tableau {
   color: red;
   text-align: center;
-
+  border: 2px;
+  width: 33%;
+  
 }

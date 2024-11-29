@@ -10,7 +10,7 @@ h1 {
   font-size: 50px;
   text-align: center;
 }
- #menu>ul>li>ul>li {
+ #menu>ul>li {
    padding: 5px;
    background-color: aqua;
    border-radius: 5px;

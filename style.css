@@ -40,7 +40,7 @@ div.tableau {
   border-collapse: collapse;
 }
 
-.button {
+.button :hover {
   color: black;
   text-decoration: none;
   font-family: Heattenschweiler;

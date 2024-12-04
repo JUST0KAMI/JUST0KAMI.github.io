@@ -39,3 +39,9 @@ div.tableau {
   border-collapse: collapse;
 }
 
+.button {
+  color: black;
+  text-decoration: none;
+  font-family: Heattenschweiler;
+}
+

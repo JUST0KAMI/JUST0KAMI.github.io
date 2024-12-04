@@ -18,7 +18,7 @@ h1 {
    width: 200px;
  }
 .important {
-  color: green;
+  color: #01f8d7;
   font-size: 35px;
 }
 div.image {
@@ -32,10 +32,10 @@ div.image {
   top: 10px;
 }
 div.tableau {
-  color: red;
+  color: black;
   text-align: center;
   border: 2px;
   width: 33%;
   border-collapse: collapse;
 }
-#color>
+

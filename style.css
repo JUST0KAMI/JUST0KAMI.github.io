@@ -1,6 +1,6 @@
 body {
-  background-color: #FFFF99;
-  color: blue;
+  background-color: white;
+  color: black;
   font-family: verdana;
   font-size: 20px;
 }
@@ -22,9 +22,9 @@ h1 {
   font-size: 35px;
 }
 div.image {
-  border: 5px solid red;
+  border: 5px solid black;
   border-radius: 10px;
-  background-color: blue;
+  background-color: white;
   padding: 10px;
   width: 200px;
   position: static;

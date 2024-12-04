@@ -18,8 +18,9 @@ h1 {
    width: 200px;
  }
 .important {
-  color: #01f8d7;
+  color: #262928;
   font-size: 35px;
+  font-family:monospace;
 }
 div.image {
   border: 5px solid black;

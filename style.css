@@ -68,3 +68,8 @@ div.tableau {
   text-decoration: none;
 }
 
+.rangement {
+  display: flex;
+  align-items: center;
+}
+

@@ -58,6 +58,7 @@ div.tableau {
   justify-content: center;
   display: flex;
   align-items: center;
+  transition: text-decoration 0.1s, text-decoration-color 0.1s, color 0.1s;
 }
 
 .page :hover {
@@ -65,13 +66,5 @@ div.tableau {
   border: 1px solid black;
   background-color: white;
   text-decoration: none;
-  height: 50px;
-  width: 350px;
-  font-family: Heattenschweiler;
-  text-align: center;
-  justify-content: center;
-  display: flex;
-  align-items: center;
-
 }
 

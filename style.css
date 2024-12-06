@@ -45,11 +45,13 @@ div.tableau {
   border: 1px solid black;
   background-color: white;
   text-decoration: none;
+  height: 50px;
+  width: 100px;
   font-family: Heattenschweiler;
   text-align: center;
 }
 
 .page :hover {
-  
+
 }
 

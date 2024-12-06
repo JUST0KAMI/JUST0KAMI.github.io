@@ -42,7 +42,10 @@ div.tableau {
 
 .button :hover{
   color: black;
+  border: 1px solid black;
+  background-color: white;
   text-decoration: none;
   font-family: Heattenschweiler;
+  text-align: center;
 }
 

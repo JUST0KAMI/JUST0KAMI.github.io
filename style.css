@@ -49,6 +49,8 @@ div.tableau {
   width: 350px;
   font-family: Heattenschweiler;
   text-align: center;
+  justify-content: center;
+  display: flex;
 }
 
 .page :hover {

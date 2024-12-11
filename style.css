@@ -28,6 +28,8 @@ h1 {
   width: 100%;
   background-color: rgb(31, 28, 28);
   display: flex;
+  margin-top: -5px;
+  margin-left: -5px;
   
 }
 div.image {

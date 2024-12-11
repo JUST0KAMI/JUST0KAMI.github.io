@@ -25,11 +25,12 @@ h1 {
 }
 .haut {
   height: 100px;
-  width: 100%;
+  width: 1364;
   background-color: rgb(31, 28, 28);
   display: flex;
-  margin-top: -5px;
-  margin-left: -5px;
+  align-items;
+  margin-top: -7px;
+  margin-left: -7px;
   
 }
 div.image {

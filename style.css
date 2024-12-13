@@ -78,3 +78,7 @@ div.tableau {
   align-items: center;
 }
 
+.lien {
+  display: flex;
+}
+

@@ -32,7 +32,7 @@ h1 {
   background-color: rgb(31, 28, 28); 
   
 }
-div.image {
+.image {
   border: 5px solid black;
   border-radius: 10px;
   background-color: white;
@@ -42,7 +42,7 @@ div.image {
   right: 10px;
   top: 10px;
 }
-div.tableau {
+.tableau {
   color: black;
   text-align: center;
   border: 2px;

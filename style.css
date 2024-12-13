@@ -3,6 +3,7 @@ body {
   color: black;
   font-family: verdana;
   font-size: 20px;
+  margin: 0px;
 }
 h1 {
   color: red;
@@ -27,7 +28,7 @@ h1 {
 }
 .haut {
   height: 80px;
-  width: 1920px;
+  width: 100%;
   background-color: rgb(31, 28, 28); 
   
 }

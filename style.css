@@ -23,10 +23,11 @@ h1 {
   font-family:monospace;
   text-align: center;
   margin-top: -16.750px;
+  align-items: center;
 }
 .haut {
   height: 80px;
-  width: 100%;
+  width: 130%;
   background-color: rgb(31, 28, 28);  
 }
 div.image {

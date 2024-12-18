@@ -29,8 +29,8 @@ h1 {
 .haut {
   height: 80px;
   width: 100%;
-  background-color: rgb(31, 28, 28); 
-  
+  background-color: rgb(31, 28, 28);
+  display: flex; 
 }
 .image {
   border: 5px solid black;

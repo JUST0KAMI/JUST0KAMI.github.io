@@ -68,7 +68,9 @@ h1 {
 
 .page :hover {
   border: 1px solid black;
+  color: black;
   background-color: white;
+  text-decoration: none;
 }
 
 .rangement {

@@ -25,6 +25,7 @@ h1 {
   text-align: center;
   margin-top: 0px;
   align-items: center;
+  display: flex;
 }
 .haut {
   height: 80px;
